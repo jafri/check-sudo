@@ -1,4 +1,6 @@
-import { exec } from 'child_process'
+import { exec as execWithCb } from 'child_process'
+import { promisify } from 'util'
+const exec = promisify(execWithCb)
 
 export async function checkWindowsSudo() {
 	if (process.platform !== 'win32') return false
