@@ -1,0 +1,3 @@
+var typedoc = typedoc || {};
+            typedoc.search = typedoc.search || {};
+            typedoc.search.data = {"kinds":{"64":"Function"},"rows":[{"id":0,"kind":64,"name":"checkWindowsSudo","url":"globals.html#checkwindowssudo","classes":"tsd-kind-function"},{"id":1,"kind":64,"name":"checkLinuxOrMacSudo","url":"globals.html#checklinuxormacsudo","classes":"tsd-kind-function"},{"id":2,"kind":64,"name":"checkSudo","url":"globals.html#checksudo","classes":"tsd-kind-function"}]};
