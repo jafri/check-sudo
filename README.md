@@ -1,6 +1,8 @@
-# check-sudo
+# check-sudo [![Build Status](https://travis-ci.com/jafri/check-sudo.svg?branch=master)](https://travis-ci.com/jafri/check-sudo)
 
 > Check process elevation on Linux, MacOs or Windows
+
+[Docs](https://jafri.github.io/check-sudo/)
 
 ## Install
 NPM
